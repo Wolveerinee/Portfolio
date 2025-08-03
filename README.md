@@ -1,4 +1,3 @@
-# Portfolio
 # Ujjwal Kumar - Portfolio Website
 
 A modern, responsive portfolio website showcasing my journey as a Computer Science graduate specializing in Artificial Intelligence and Machine Learning.
